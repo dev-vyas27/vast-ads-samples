@@ -4,10 +4,10 @@ This folder contains sample VAST 3.0 XML files for OTT/CTV ad testing.
 
 ## Public XML URLs
 
-- https://devv-gmits.github.io/vast-ads-samples/linear1.xml
-- https://devv-gmits.github.io/vast-ads-samples/linear2.xml
-- https://devv-gmits.github.io/vast-ads-samples/overlay1.xml
-- https://devv-gmits.github.io/vast-ads-samples/overlay2.xml
+- https://dev-vyas27.github.io/vast-ads-samples/linear1.xml
+- https://dev-vyas27.github.io/vast-ads-samples/linear2.xml
+- https://dev-vyas27.github.io/vast-ads-samples/overlay1.xml
+- https://dev-vyas27.github.io/vast-ads-samples/overlay2.xml
 
 ## Usage in OTT / Flutter TV app
 
